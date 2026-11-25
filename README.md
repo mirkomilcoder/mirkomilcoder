@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0f3460,100:00f5d4&height=260&section=header&text=MirkomilCoder&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Python%20%E2%80%A2%20Django%20%E2%80%A2%20Telegram%20Bots%20%E2%80%A2%20Backend&descAlignY=64&descSize=20&stroke=00f5d4&strokeWidth=1" width="100%"/>
+<img src="./assets/header.svg" alt="MirkomilCoder — Backend Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%3E+Salom%2C+men+Mirkomil+%F0%9F%91%8B;%3E+Django+Backend+Developer+%F0%9F%90%8D;%3E+aiogram+bilan+Telegram+botlar+%F0%9F%A4%96;%3E+REST+API+%7C+PostgreSQL+%7C+Redis+%E2%9A%A1;%3E+Home+server+%2B+Linux+enthusiast+%F0%9F%96%A5%EF%B8%8F;%3E+while(alive)%3A+learn()+%F0%9F%9A%80" alt="Typing SVG"/>
