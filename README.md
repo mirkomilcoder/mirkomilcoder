@@ -164,7 +164,7 @@ fuel:      ☕ choy + 🎮 o'yinlar
 
 ### 🧊 3D Contribution Calendar
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%"/>
+  <img src="./profile-3d-contrib/profile-mirkomil.svg" alt="3D contributions" width="100%"/>
 </div>
 
 ### 📈 Faollik grafigi

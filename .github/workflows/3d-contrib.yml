@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 18 * * *"     # har kuni (Toshkent vaqti 23:00)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["conf/**", ".github/workflows/3d-contrib.yml"]
 
 permissions:
   contents: write
@@ -15,10 +18,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: 3D grafik yaratish
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Commit & Push
         run: |

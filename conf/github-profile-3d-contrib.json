@@ -1,0 +1,23 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-mirkomil.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#1f2328",
+    "strongColor": "#7209b7",
+    "weakColor": "#8c959f",
+    "radarColor": "#7209b7",
+    "growingAnimation": true,
+    "contribColors": ["#eef0f4", "#cdb4ff", "#9d4edd", "#7209b7", "#f72585"],
+    "darkMode": {
+      "type": "normal",
+      "backgroundColor": "#0d1117",
+      "foregroundColor": "#e6edf3",
+      "strongColor": "#00f5d4",
+      "weakColor": "#6e7681",
+      "radarColor": "#00f5d4",
+      "growingAnimation": true,
+      "contribColors": ["#161b2e", "#3a0ca3", "#7209b7", "#c026d3", "#00f5d4"]
+    }
+  }
+]
