@@ -213,7 +213,7 @@ fuel:      ☕ choy + 🎮 o'yinlar
 
 <br/><br/>
 
-<i>⭐ Profilim yoqqan bo'lsa, repolarimga star bosishni unutmang!</i>
+<i>⭐ Profilim yoqqan bo'lsa, repolarimga star bosishni unutmang!😇</i>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5d4,60:0f3460,100:0d1117&height=140&section=footer" width="100%"/>
 
